@@ -88,7 +88,7 @@ You can override prompts with:
 
 ```bash
 uv sync
-uv run src/server.py
+uv run judge/src/server.py
 ```
 
 ## Running Locally (pip)
@@ -98,7 +98,7 @@ python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -U pip
 pip install -e .
-python src/server.py
+python judge/src/server.py
 ```
 
 ## Running with Docker
