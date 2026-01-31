@@ -5,3 +5,6 @@
 **/__pycache__
 **/*.pyc
 datasets/datasets.zip
+
+src/green_agent_template.egg-info
+*.egg-info
