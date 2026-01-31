@@ -4,11 +4,13 @@
 
 # Python-generated files
 __pycache__/
+**/__pycache__
 *.py[oc]
 build/
 dist/
 wheels/
 *.egg-info
+src/green_agent_template.egg-info
 
 # Virtual environments
 .venv
